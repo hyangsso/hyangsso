@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=7&height=300&section=header&text=hyang-HA!&desc=&fontSize=80&rotate=20&fontAlign=70&fontAlignY=35&animation=fadeIn&fontColor=000000)
 
 <!--
 **hyangsso/hyangsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
