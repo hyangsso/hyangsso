@@ -48,7 +48,7 @@
 ✏️ learning✏️
 </p>
    <img src="https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=092E20"/>
-
+   <img src="https://img.shields.io/badge/aws-orange?style=flat&logo=amazonaws&logoColor=232F3E"/>
 </div>
   
 <!--
