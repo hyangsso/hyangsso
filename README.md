@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=7&height=300&section=header&text=hyang-HA!&desc=&fontSize=90&&animation=fadeIn&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=7&height=200&section=header&text=hyang-HA!&desc=&fontSize=70&&animation=fadeIn&fontColor=000000)
 
 <br>
 <br>
