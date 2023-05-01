@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=7&height=300&section=header&text=hyang-HA!&desc=&fontSize=80&rotate=20&fontAlign=70&fontAlignY=35&animation=fadeIn&fontColor=000000)
 
+<img src="https://img.shields.io/badge/mysql-green?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=3776AB"/>
 
 
 <!--
