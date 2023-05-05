@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/mysql-green?style=flat&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/html-yellow?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/tensorflow-orange?style=flat&logo=tensorflow&logoColor=FF6F00"/>
 </p>
 
 <br>
