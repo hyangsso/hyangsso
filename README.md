@@ -36,12 +36,12 @@
   Techs that I've used at least once
 </p>
 <p>
-  <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/mysql-green?style=flat&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/html-yellow?style=flat&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/tensorflow-red?style=flat&logo=tensorflow&logoColor=FF6F00"/> <br><br>
-  <img src="https://img.shields.io/badge/airflow-blue?style=flat&logo=airflow&logoColor=017CEE"/>
-  <img src="https://img.shields.io/badge/aws-orange?style=flat&logo=amazonaws&logoColor=232F3E"/>
+  <img src="https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/mysql-green?style=plastic&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/html-yellow?style=plastic&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/tensorflow-red?style=plastic&logo=tensorflow&logoColor=FF6F00"/> <br><br>
+  <img src="https://img.shields.io/badge/airflow-blue?style=plastic&logo=airflow&logoColor=017CEE"/>
+  <img src="https://img.shields.io/badge/aws-orange?style=plastic&logo=amazonaws&logoColor=232F3E"/>
 
 </p>
 
@@ -51,9 +51,10 @@
 <p>
 ✏️ learning✏️
 </p>
-   <img src="https://img.shields.io/badge/django-darkgreen?style=flat&logo=django&logoColor=092E20"/>
+   <img src="https://img.shields.io/badge/django-darkgreen?style=plastic&logo=django&logoColor=092E20"/>
+   <img src="https://img.shields.io/badge/kafka-orange?style=plastic&logo=kafka&logoColor=231F20"/>
 </div>
-  
+
 <!--
 **hyangsso/hyangsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
