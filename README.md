@@ -3,7 +3,7 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hyangsso&theme=tokyonight&show_icons=true"/>
 
   ### 🐰 hyangsso 🐰
-##### 성장욕구가 강합니다.
+##### 다양한 경험을 통해 배우고 성장하는 것을 지향합니다.
  
  ___
 
